@@ -1,0 +1,14 @@
+*************************************************
+**
+**  Visual FoxPro Custom Configuration File 1.0
+**  
+**  This config file will set up the global 
+**  environment 
+**
+**  Written By: Joshua Kim
+*************************************************
+
+** Global Environment Settings
+PATH = S:/SQAFW/MSTR45_W; S:/SQAFW/MSTRPBT; C:/PROJECTS/VFP/TESTCODES  
+*CLOCK = STATUS
+EXCLUSIVE = OFF			
